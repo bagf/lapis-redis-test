@@ -1,6 +1,6 @@
 # lapis-redis-test
 
-### Installion
+### Installation
 
 Lua 5.2 and Luarocks must be installed, use Luarocks to install the required dependencies:
 
